@@ -1,10 +1,9 @@
 # SaM Solutions @ Search & Knowledge house rules
 
 ## Presence
-
 Please make sure you are always available on-site during core hours 10:00-12:00 and 14:00-16:00 otherwise report your absence as defined below.
 
-### Time tracking 
+#### Time tracking 
 Short introduction into a timetracking system is used by SAM EPO employees and contractors
 - For the purpose of timesheet generation and office time tracking we all will use http://epo.10time.info application where you already have an accounts. HINT. Check your mailbox for a mail from 10time.info
 -	Every team member **each business day** must record number of working hours by entering number of effective hours spent on EPO tasks in the office manually of using a FF/Chrome plugin. HINT Search your mailbox for a mail with subject "10times automation"
@@ -17,17 +16,17 @@ Short introduction into a timetracking system is used by SAM EPO employees and c
 
 Please make sure that you have specified every working day workload before you leave **last business day of the month**. 
 
-### Team calendar
+#### Team calendar
 Following the link http://sharepoint.internal.epo.org/sites/sandk/Lists/SKDev/calendar.aspx?AccountId=28 you can get an access to the Serch & Knowledge SaM developers team calendar - a consolidated report and forecast of development team members' presence. 
 
-### Vacation
+#### Vacation
 Prior taking vacation please make sure it does not conflicts with major projects deadlines and vacation schedule of the other team members. Please follow the set of rules specified below:
 - Discuss your vacation plan on a standup
 - **Permanent staff only***, use http://urlaubsverwaltung.sam-solutions.net/ to register your vacation and get approval prior leave
 - Plan your vacation in a team calendar
 - Activate "Out of office"automatic reply in Outlook
 
-### Sick or unscheduled leave 
+#### Sick or unscheduled leave 
 In case of emergency or sick leave when you have no access to the team calendar please make sure you've notified either Service Delivery Manager or Project Manager Assistent, please find contacts below:
 - **Service Manager** - [Alexander Khval](mailto:a.khval@sam-solutions.com)
 - **Project Manager Assistent** - [Evgenia Poskanenkowa](mailto:E.Poskanenkowa@sam-solutions.com)
