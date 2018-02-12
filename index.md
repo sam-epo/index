@@ -31,7 +31,8 @@ Prior taking vacation please make sure it does not conflicts with major projects
 In case of emergency or sick leave when you have no access to the team calendar please make sure you've notified either Service Delivery Manager or Project Manager Assistent, please find contacts below:
 - **Service Manager** - [Alexander Khval](mailto:a.khval@sam-solutions.com)
 - **Project Manager Assistent** - [Evgenia Poskanenkowa](mailto:E.Poskanenkowa@sam-solutions.com)
-You can mail, SMS, call, WhatsApp, Telegram or use any other way of communication
+
+You can mail, SMS, call, WhatsApp, Telegram, facebook, Hangout or use any other way of communication
 
 ## Training courses
 TBD
