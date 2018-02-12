@@ -1,37 +1,42 @@
 ## SaM Solutions @ Search & Knowledge house rules
 
-You can use the [editor on GitHub](https://github.com/SaM-at-EPO/index/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Presence
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please make sure you are always available on-site during core hours 10:00-12:00 and 14:00-16:00 otherwise report your absence as defined below.
 
-### Markdown
+#### Time tracking 
+Short introduction into a timetracking system is used by SAM EPO employees and contractors
+- For the purpose of timesheet generation and office time tracking we all will use http://epo.10time.info application where you already have an accounts. HINT. Check your mailbox for a mail from 10time.info
+-	Every team member *each business day* must record number of working hours by entering number of effective hours spent on EPO tasks in the office manually of using a FF/Chrome plugin. HINT Search your mailbox for a mail with subject "10times automation"
+- The “Description” field is used to specify breakdown of your working hours (arrive-depart time and break length). The format of breakdown is **“HH:mm HH:mm | HH.hh”**, where the first timestamp is arrival time, second is a departure time and decimal after the pipe is a length of a break. In order to avoid delays with payment orders, please make sure that the breakdown and total time spent during a day corresponds to each other. According to SAM working hours policy and Dutch law it’s required to have at least half hour break daily. Average working day should not be significantly different from 8 hours (7.5 hours is OK; 12 hours is NOT OK).
+-	Your day-to-day activity category is “Development”. HINT it also might be “Maintenance”
+- In order to help SAM procurement team handle sick leave all SAM employees are welcome to use “Sick Leave” category although it’s not mandatory for non-permanent SAM employees.
+- Please don’t forget to use “Official Holliday” and “Annual Leave” categories where it’s appropriate.
+- Monthly time-sheet generation. On last day of every working month time records will be accumulated, verified by SAM PM Assistent and cumulative monthly report will be generated and sent to SAM procurement. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Please make sure that you have specified every working day workload before you leave **last business day of the month**. 
 
-```markdown
-Syntax highlighted code block
+#### Team calendar
+Following the link http://sharepoint.internal.epo.org/sites/sandk/Lists/SKDev/calendar.aspx?AccountId=28 you can get an access to the Serch & Knowledge SaM developers team calendar - a consolidated report and forecast of development team members' presence. 
 
-# Header 1
-## Header 2
-### Header 3
+#### Vacation
+Prior taking vacation please make sure it does not conflicts with major projects deadlines and vacation schedule of the other team members. Please follow the set of rules specified below:
+- Discuss your vacation plan on a standup
+- **Permanent staff only***, use http://urlaubsverwaltung.sam-solutions.net/ to register your vacation and get approval prior leave
+- Plan your vacation in a team calendar
+- Activate "Out of office"automatic reply in Outlook
 
-- Bulleted
-- List
+#### Sick or unscheduled leave 
+In case of emergency or sick leave when you have no access to the team calendar please make sure you've notified either Service Delivery Manager or Project Manager Assistent, please find contacts below:
+- **Service Manager** - [Alexander Khval](mailto:a.khval@sam-solutions.com)
+- **Project Manager Assistent** - [Evgenia Poskanenkowa](mailto:E.Poskanenkowa@sam-solutions.com)
+You can mail, SMS, call, WhatsApp, Telegram or use any other way of communication
 
-1. Numbered
-2. List
+### Training courses
 
-**Bold** and _Italic_ and `Code` text
+### Code of conduct
+TBD
 
-[Link](url) and ![Image](src)
-```
+### Visitors
+TBD
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SaM-at-EPO/index/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
