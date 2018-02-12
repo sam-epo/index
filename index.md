@@ -1,4 +1,4 @@
-## SaM Solution @ Search & Knowledge house rules
+## SaM Solutions @ Search & Knowledge house rules
 
 You can use the [editor on GitHub](https://github.com/SaM-at-EPO/index/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
