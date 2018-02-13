@@ -4,17 +4,18 @@
 - You are not allowed to share your password with anyone.
 - Your default password is the same as user ID in a lower case. 
 - After the first login you will be asked to change it and the New Password needs to be now a minimum of 10 characters: and should contain at least 3 out of the 4 groups (digits/numbers, small letters, capital letters or special characters). Example:  mA2hh%ZZZ7
+- :BULB: Don't use Y and Z letters in your password because of Swiss-german keyboard layout
 
 ## Presence
 Please make sure you are always available on-site during core hours 10:00-12:00 and 14:00-16:00 otherwise report your absence as defined below.
 
 #### Time tracking 
 Short introduction into a timetracking system is used by SAM EPO employees and contractors
-- For the purpose of timesheet generation and office time tracking we all will use http://epo.10time.info application where you already have an accounts. HINT. Check your mailbox for a mail from 10time.info
--	Every team member **each business day** must record number of working hours by entering number of effective hours spent on EPO tasks in the office manually of using a FF/Chrome plugin. HINT Search your mailbox for a mail with subject "10times automation"
+- For the purpose of timesheet generation and office time tracking we all will use http://epo.10time.info application where you already have an accounts. :BULB: Check your mailbox for a mail from 10time.info
+-	Every team member **each business day** must record number of working hours by entering number of effective hours spent on EPO tasks in the office manually of using a FF/Chrome plugin. :BULB: Search your mailbox for a mail with subject "10times automation"
 - The “Description” field is used to specify breakdown of your working hours (arrive-depart time and break length). The format of breakdown is **“HH:mm HH:mm | HH.hh”**, where the first timestamp is arrival time, second is a departure time and decimal after the pipe is a length of a break. In order to avoid delays with payment orders, please make sure that the breakdown and total time spent during a day corresponds to each other. According to SAM working hours policy and Dutch law it’s required to have at least half hour break daily. Average working day should not be significantly different from 8 hours (7.5 hours is OK; 12 hours is NOT OK).
 ![timesheet sample](timesheet.png)
--	Your day-to-day activity category is “Development”. HINT it also might be “Maintenance”
+-	Your day-to-day activity category is “Development”. :BULB: it also might be “Maintenance”
 - In order to help SAM procurement team handle sick leave all SAM employees are welcome to use “Sick Leave” category although it’s not mandatory for non-permanent SAM employees.
 - Please don’t forget to use “Official Holliday” and “Annual Leave” categories where it’s appropriate.
 - Monthly time-sheet generation. On last day of every working month time records will be accumulated, verified by SAM PM Assistent and cumulative monthly report will be generated and sent to SAM procurement. 
