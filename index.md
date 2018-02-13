@@ -7,7 +7,7 @@ https://www.google.nl/maps/@52.0402016,4.3368093,3a,75y,130.51h,110.74t/data=!3m
 - EPO Shell building entrance
 https://www.google.nl/maps/@52.0418991,4.3412057,3a,75y,200.19h,92.59t/data=!3m6!1e1!3m4!1sXiDCFwGITUab6gJ2h8Zvqg!2e0!7i13312!8i6656
 
-:BULB: Please have ID (passport, driver license) and optionally laptop with you. 
+:bulb: Please have ID (passport, driver license) and optionally laptop with you. 
 
 ## Password policy
 - You are not allowed to share your password with anyone.
