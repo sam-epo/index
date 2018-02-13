@@ -44,9 +44,8 @@ TBD
 ## Code of conduct
 TBD
 
-### Visitors
+## Visitors
 TBD
 
-### Org chart
-
+## Org chart
 TBD
