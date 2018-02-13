@@ -28,10 +28,10 @@ Following the link http://sharepoint.internal.epo.org/sites/sandk/Lists/SKDev/ca
 
 #### Vacation
 Prior taking vacation please make sure it does not conflicts with major projects deadlines and vacation schedule of the other team members. Please follow the set of rules specified below:
-[ ] Discuss your vacation plan on a standup
-[ ] **Permanent staff only***, use http://urlaubsverwaltung.sam-solutions.net/ to register your vacation and get approval prior leave
-[ ] Plan your vacation in a team calendar
-[ ] Activate "Out of office"automatic reply in Outlook
+- Discuss your vacation plan on a standup
+- **Permanent staff only***, use http://urlaubsverwaltung.sam-solutions.net/ to register your vacation and get approval prior leave
+- Plan your vacation in a team calendar
+- Activate "Out of office"automatic reply in Outlook
 
 #### Sick or unscheduled leave 
 In case of emergency or sick leave when you have no access to the team calendar please make sure you've notified either Service Delivery Manager or Project Manager Assistent, please find contacts below:
