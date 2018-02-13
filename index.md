@@ -1,5 +1,11 @@
 # SaM Solutions @ Search & Knowledge house rules
 
+## Password policy
+You re not allowed toshare your password with anyone.
+
+Your default password is the same as user ID in a lower case. After the first lofin you will be asked to change it and the New Password needs to be now a minimum of 10 characters: and should contain at least 3 out of the 4 groups (digits/numbers, small letters, capital letters or special characters).
+example:  mA2hh%ZZZ7
+
 ## Presence
 Please make sure you are always available on-site during core hours 10:00-12:00 and 14:00-16:00 otherwise report your absence as defined below.
 
