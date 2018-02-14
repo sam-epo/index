@@ -6,13 +6,12 @@ On your first day at SaM Solution @ EPO you will be met by a Service Manager or 
 
 - EPO Shell building entrance. [See on Google Maps](https://www.google.nl/maps/@52.0418991,4.3412057,3a,75y,200.19h,92.59t/data=!3m6!1e1!3m4!1sXiDCFwGITUab6gJ2h8Zvqg!2e0!7i13312!8i6656)
 
-
 :bulb: Please have ID (passport, driver license) and optionally laptop with you. 
 
 ## Password policy
 - You are not allowed to share your password with anyone.
 - Your default password is the same as user ID in a lower case. 
-- After the first login you will be asked to change it and the New Password needs to be now a minimum of 10 characters: and should contain at least 3 out of the 4 groups (digits/numbers, small letters, capital letters or special characters). Example:  mA2hh%ZZZ7
+- After the first login you will be asked to change it and the New Password needs to be now a minimum of 10 characters: and should contain at least 3 out of the 4 groups (digits/numbers, small letters, capital letters or special characters). Example:  'mA2hh%ZZZ7'
 - :bulb: Don't use Y and Z letters in your password because of Swiss-german keyboard layout
 
 ## Presence
