@@ -58,3 +58,6 @@ TBD
 
 ## Org chart
 TBD
+
+## Resignation
+The notica period is [one calendar month](https://www.rijksoverheid.nl/onderwerpen/ontslag/vraag-en-antwoord/ontslag-nemen-opzegtermijn-werknemer) however we appriciate if you do it two months before resignation.
