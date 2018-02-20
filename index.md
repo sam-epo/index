@@ -31,12 +31,12 @@ Short introduction into a timetracking system is used by SAM EPO employees and c
 Please make sure that you have specified every working day workload before you leave **last business day of the month**. 
 
 #### Team calendar
-Following the link (http://sharepoint.internal.epo.org/sites/sandk/Lists/SKDev/calendar.aspx?AccountId=28) you can get an access to the Serch & Knowledge SaM developers team calendar - a consolidated report and forecast of development team members' presence. 
+Following the link [http://sharepoint.internal.epo.org/sites/sandk/Lists/SKDev/calendar.aspx?AccountId=28](http://sharepoint.internal.epo.org/sites/sandk/Lists/SKDev/calendar.aspx?AccountId=28) you can get an access to the Serch & Knowledge SaM developers team calendar - a consolidated report and forecast of development team members' presence. 
 
 #### Vacation
 Prior taking vacation please make sure it does not conflicts with major projects deadlines and vacation schedule of the other team members. Please follow the set of rules specified below:
 - Discuss your vacation plan on a standup
-- **Permanent staff only***, use http://urlaubsverwaltung.sam-solutions.net/ to register your vacation and get approval prior leave
+- **Permanent staff only***, use [http://urlaubsverwaltung.sam-solutions.net/](http://urlaubsverwaltung.sam-solutions.net/) to register your vacation and get approval prior leave
 - Plan your vacation in a team calendar
 - Activate "Out of office"automatic reply in Outlook
 
