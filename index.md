@@ -45,7 +45,7 @@ In case of emergency or sick leave when you have no access to the team calendar 
 - **Service Manager** - [Alexander Khval](mailto:a.khval@sam-solutions.com)
 - **Project Manager Assistent** - [Evgenia Poskanenkowa](mailto:E.Poskanenkowa@sam-solutions.com)
 
-You can mail, SMS, call, WhatsApp, [Telegram](https://t.me/khval), Facebook, Hangout or use any other way of communication
+You can mail, SMS, call, [WhatsApp](https://api.whatsapp.com/send?phone=31623759269), [Telegram](https://t.me/khval), Facebook, Hangout or use any other way of communication
 
 ## Training courses
 TBD
