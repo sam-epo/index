@@ -47,6 +47,9 @@ In case of emergency or sick leave when you have no access to the team calendar 
 
 You can mail, SMS, call, [WhatsApp](https://api.whatsapp.com/send?phone=31623759269), [Telegram](https://t.me/khval), Facebook, Hangout or use any other way of communication
 
+## Business trip
+TBD
+
 ## Training courses
 TBD
 
@@ -60,4 +63,4 @@ TBD
 TBD
 
 ## Resignation
-The notica period is [one calendar month](https://www.rijksoverheid.nl/onderwerpen/ontslag/vraag-en-antwoord/ontslag-nemen-opzegtermijn-werknemer) however we appriciate if you do it two months before resignation.
+The notice period is [one calendar month](https://www.rijksoverheid.nl/onderwerpen/ontslag/vraag-en-antwoord/ontslag-nemen-opzegtermijn-werknemer) however we appriciate if you do it two months before resignation.
