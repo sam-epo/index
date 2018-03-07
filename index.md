@@ -36,7 +36,7 @@ Following the link [http://sharepoint.internal.epo.org/sites/sandk/Lists/SKDev/c
 #### Vacation
 Prior taking vacation please make sure it does not conflicts with major projects deadlines and vacation schedule of the other team members. Please follow the set of rules specified below:
 - Discuss your vacation plan on a standup
-- **Permanent staff only***, use [http://urlaubsverwaltung.sam-solutions.net/](http://urlaubsverwaltung.sam-solutions.net/) to register your vacation and get approval prior leave
+- **Permanent staff only**, use [http://urlaubsverwaltung.sam-solutions.net/](http://urlaubsverwaltung.sam-solutions.net/) to register your vacation and get approval prior leave
 - Plan your vacation in a team calendar
 - Activate "Out of office"automatic reply in Outlook
 
