@@ -57,10 +57,12 @@ TBD
 TBD
 
 ## Visitors
-TBD
+Make sure your visitors do not leave a public and they are always accompanied by EPO contractor or permanent staff.
+In a rear case when visitor needs to visit a production area of EPO facilities please agree it with a SaM Service Manager who has a permission to request an access
 
 ## Org chart
-TBD
+- **Service Manager** - [Alexander Khval](mailto:a.khval@sam-solutions.com)
+- **Project Manager Assistent** - [Evgenia Poskanenkowa](mailto:E.Poskanenkowa@sam-solutions.com)
 
 ## Resignation
 The notice period is [one calendar month](https://www.rijksoverheid.nl/onderwerpen/ontslag/vraag-en-antwoord/ontslag-nemen-opzegtermijn-werknemer) however we appriciate if you do it two months before resignation.
