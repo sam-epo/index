@@ -62,7 +62,7 @@ Make sure your visitors do not leave a public and they are always accompanied by
 In a rear case when visitor needs to visit a production area of EPO facilities please agree it with a SaM Service Manager who has a permission to request an access
 
 ## Org chart
-Please find an uptodate organigram on a following [http://confluence-p.internal.epo.org/display/Patinfo/2120+KMS+Search+Tools.+Team](confluence page).
+Please find an uptodate organigram on a following [confluence page](http://confluence-p.internal.epo.org/display/Patinfo/2120+KMS+Search+Tools.+Team).
 
 ## Resignation
 The notice period is [one calendar month](https://www.rijksoverheid.nl/onderwerpen/ontslag/vraag-en-antwoord/ontslag-nemen-opzegtermijn-werknemer) however we appriciate if you do it two months before resignation.
