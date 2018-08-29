@@ -15,7 +15,7 @@ On your first day at SaM Solution @ EPO you will be met by a Service Manager or 
 - :bulb: Don't use Y and Z letters in your password because of Swiss-german keyboard layout
 
 ## Presence
-Please make sure you are always available on-site during core hours 10:00-12:00 and 14:00-16:00 otherwise report your absence as defined below.
+Please make sure you are always available on-site during **core hours 10:00-12:00 and 14:00-16:00** otherwise report your absence as defined below.
 
 #### Time tracking 
 Short introduction into a timetracking system is used by SAM EPO employees and contractors
@@ -32,7 +32,7 @@ Short introduction into a timetracking system is used by SAM EPO employees and c
 Please make sure that you have specified every working day workload before you leave **last business day of the month**. 
 
 #### Team calendar
-Following the link [http://sharepoint/sites/sandk/Lists/SKDev/calendar.aspx?AccountId=28](http://sharepoint.internal.epo.org/sites/sandk/Lists/SKDev/calendar.aspx?AccountId=28) you can get an access to the Serch & Knowledge SaM developers team calendar - a consolidated report and forecast of development team members' presence. 
+Following the link [http://sharepoint2013/sites/ESSKSS/](http://sharepoint2013.internal.epo.org/sites/ESSKSS/) you can get an access to the Serch & Knowledge SaM developers team calendar - a consolidated report and forecast of development team members' presence. 
 
 #### Vacation
 Prior taking vacation please make sure it does not conflicts with major projects deadlines and vacation schedule of the other team members. Please follow the set of rules specified below:
@@ -50,13 +50,16 @@ In case of emergency or sick leave when you have no access to the team calendar 
 You can mail, SMS, call, [WhatsApp](https://api.whatsapp.com/send?phone=31623759269), [Telegram](https://t.me/khval), Facebook, Hangout or use any other way of communication
 
 ## Business trip
-TBD
+Pleae consult with Service Manager regarding business trips compensations.
 
 ## Training courses
-TBD
+Pleae consult with Service Manager regarding training booking and compensations.
 
 ## Code of conduct
-TBD
+- Integrity = pleae support each other.
+- Usefulness = we are solving and not making problems.
+- Privacy, Security and Outside Communications = you should also ensure your outside communications (including social media) do not disclose confidential information or represent (or otherwise give the impression) that you are speaking on behalf of Google unless you’re authorized to do so by the company.
+- Responsiveness = take initiative and help any time you feel our users and clients aren’t being well-served. 
 
 ## Visitors
 Make sure your visitors do not leave a public and they are always accompanied by EPO contractor or permanent staff.
@@ -67,6 +70,3 @@ Please find an uptodate organigram on a following [confluence page](http://confl
 
 ## Resignation
 The notice period is [one calendar month](https://www.rijksoverheid.nl/onderwerpen/ontslag/vraag-en-antwoord/ontslag-nemen-opzegtermijn-werknemer) however we appriciate if you do it two months before resignation.
-
-## FAQ
-TBD
