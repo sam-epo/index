@@ -23,8 +23,8 @@ Short introduction into a timetracking system is used by SAM EPO employees and c
 -	Every team member **each business day** must record number of working hours by entering number of effective hours spent on EPO tasks in the office manually of using a FF/Chrome plugin. :bulb: Search your mailbox for a mail with subject "10times automation"
 - The “Description” field is used to specify breakdown of your working hours (arrive-depart time and break length). The format of breakdown is **“HH:mm HH:mm | HH.hh”**, where the first timestamp is arrival time, second is a departure time and decimal after the pipe is a length of a break. In order to avoid delays with payment orders, please make sure that the breakdown and total time spent during a day corresponds to each other. According to SAM working hours policy and Dutch law it’s required to have at least half hour break daily. Average working day should not be significantly different from 8 hours (7.5 hours is OK; 12 hours is NOT OK).
 ![timesheet sample](timesheet.png) 
-:bulb: one and half hour = 1.50 (decimal separator) and 1:30 (time separator)
 
+:bulb: one and half hour = 1.50 (decimal separator) and 1:30 (time separator)
 -	Your day-to-day activity category is “Development”. :bulb: it also might be “Maintenance”
 - **Break** If you work for more than 5.5 hours, then you should have a break of at least 30 minutes.  see [Information about the The Working Hours Act](https://www.government.nl/government/documents/leaflets/2011/08/24/q-a-working-hours)
 - In order to help SAM procurement team handle sick leave all SAM employees are welcome to use “Sick Leave” category although it’s not mandatory for non-permanent SAM employees.
