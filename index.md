@@ -36,7 +36,7 @@ Following the link [http://sharepoint2013/sites/ESSKSS/](http://sharepoint2013.i
 Prior taking vacation please make sure it does not conflicts with major projects deadlines and vacation schedule of the other team members. Please follow the set of rules specified below:
 - Discuss your vacation plan on a standup
 - **Permanent staff only**, use [http://urlaubsverwaltung.sam-solutions.net/](http://urlaubsverwaltung.sam-solutions.net/) to register your vacation and get approval prior leave
-- Plan your vacation in a [team calendar]( http://sharepoint.internal.epo.org/sites/sandk/Lists/SKDev/calendar.aspx?AccountId=28)
+- Plan your vacation in a [team calendar](http://sharepoint2013.internal.epo.org/sites/ESSKSS/)
 - Add your vacation days in a [timesheet](http://epo.10time.info/site/en/mainmenu/timesheet/) and make sure your timesheet is complete especially when your vacation cross a boundary between months 
 - Activate "Out of office" automatic reply in Outlook
 
