@@ -1,7 +1,7 @@
 # SaM Solutions @ Search & Knowledge house rules
 
 ## First Day
-On your first day at SaM Solution @ EPO you will be met by a Service Manager or nominated person at EPO entrance, there are 2 main EPO entrances:
+On your first day at SaM Solution @ EPO you will be met by a SaM Solutions Delivery Manager or nominated person at EPO entrance, there are 2 main EPO entrances:
 - EPO New Main building entrance. [See on Google Maps](https://www.google.com/maps/@52.0396136,4.3379485,3a,75y,355.77h,102.87t/data=!3m8!1e1!3m6!1sAF1QipPcnmHru-_TrrqUB-M4g1hLkrZnmTOE7pMZ_c_Q!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPcnmHru-_TrrqUB-M4g1hLkrZnmTOE7pMZ_c_Q%3Dw203-h100-k-no-pi-0.40577766-ya28.332989-ro1.3547227-fo100!7i7200!8i3600). Unlike the pictire on a google street view the building is already finalized. 
 
 :bulb: Please have ID (passport, driver license) and optionally laptop with you. 
@@ -41,8 +41,8 @@ Prior taking vacation please make sure it does not conflicts with major projects
 - Activate "Out of office" automatic reply in Outlook
 
 #### Sick or unscheduled leave 
-In case of emergency or sick leave when you have no access to the team calendar please make sure you've notified either Service Delivery Manager or Project Manager Assistent, please find contacts below:
-- **Service Manager** - [Alexander Khval](mailto:a.khval@sam-solutions.com)
+In case of emergency or sick leave when you have no access to the team calendar please make sure you've notified either service Delivery Manager or Project Manager Assistent, please find contacts below:
+- **Delivery Manager** - [Alexander Khval](mailto:a.khval@sam-solutions.com)
 - **Project Manager Assistent** - [Evgenia Poskanenkowa](mailto:E.Poskanenkowa@sam-solutions.com)
 
 You can mail, SMS, call, [WhatsApp](https://api.whatsapp.com/send?phone=31623759269), [Telegram](https://t.me/khval), Facebook, Hangout or use any other way of communication
@@ -61,7 +61,7 @@ Pleae consult with SaM Delivery Manager regarding training booking and compensat
 
 ## Visitors
 Make sure your visitors do not leave a public area they are always accompanied by SaM Solutions employeee or EPO permanent staff.
-In a rear case when visitor needs to visit a production area of EPO facilities please agree it with a SaM Service Manager who has a permission to request an access
+In a rear case when visitor needs to visit a production area of EPO facilities please agree it with a SaM Delivery Manager who has a permission to request an access
 
 ## Org chart
 Please find an uptodate organigram on a following [confluence page](http://confluence-p.internal.epo.org/display/Patinfo/2120+KMS+Search+Tools.+Team).
