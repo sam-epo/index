@@ -48,10 +48,10 @@ In case of emergency or sick leave when you have no access to the team calendar 
 You can mail, SMS, call, [WhatsApp](https://api.whatsapp.com/send?phone=31623759269), [Telegram](https://t.me/khval), Facebook, Hangout or use any other way of communication
 
 ## Business trip
-Pleae consult with Service Manager regarding business trips compensations.
+Pleae consult with SaM Delivery Manager regarding business trips compensations.
 
 ## Training courses
-Pleae consult with Service Manager regarding training booking and compensations.
+Pleae consult with SaM Delivery Manager regarding training booking and compensations.
 
 ## Code of conduct
 - Integrity = pleae support each other.
