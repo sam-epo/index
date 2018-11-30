@@ -56,11 +56,11 @@ Pleae consult with SaM Delivery Manager regarding training booking and compensat
 ## Code of conduct
 - Integrity = pleae support each other.
 - Usefulness = we are solving and not making problems.
-- Privacy, Security and Outside Communications = you should also ensure your outside communications (including social media) do not disclose confidential information or represent (or otherwise give the impression) that you are speaking on behalf of Google unless you’re authorized to do so by the company.
+- Privacy, Security and Outside Communications = you should also ensure your outside communications (including social media) do not disclose confidential information or represent (or otherwise give the impression) that you are speaking on behalf of EPO and SaM Solutions unless you’re authorized to do so by the company.
 - Responsiveness = take initiative and help any time you feel our users and clients aren’t being well-served. 
 
 ## Visitors
-Make sure your visitors do not leave a public and they are always accompanied by EPO contractor or permanent staff.
+Make sure your visitors do not leave a public area they are always accompanied by SaM Solutions employeee or EPO permanent staff.
 In a rear case when visitor needs to visit a production area of EPO facilities please agree it with a SaM Service Manager who has a permission to request an access
 
 ## Org chart
