@@ -2,9 +2,7 @@
 
 ## First Day
 On your first day at SaM Solution @ EPO you will be met by a Service Manager or nominated person at EPO entrance, there are 2 main EPO entrances:
-- EPO Main building entrance. [See on Google Maps](https://www.google.nl/maps/@52.0402016,4.3368093,3a,75y,130.51h,110.74t/data=!3m6!1e1!3m4!1s2PlTW_qSECYRppawuGGB2g!2e0!7i13312!8i6656) 
-
-- EPO Shell building entrance. [See on Google Maps](https://www.google.nl/maps/@52.0418991,4.3412057,3a,75y,200.19h,92.59t/data=!3m6!1e1!3m4!1sXiDCFwGITUab6gJ2h8Zvqg!2e0!7i13312!8i6656)
+- EPO New Main building entrance. [See on Google Maps](https://www.google.com/maps/@52.0396136,4.3379485,3a,75y,355.77h,102.87t/data=!3m8!1e1!3m6!1sAF1QipPcnmHru-_TrrqUB-M4g1hLkrZnmTOE7pMZ_c_Q!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPcnmHru-_TrrqUB-M4g1hLkrZnmTOE7pMZ_c_Q%3Dw203-h100-k-no-pi-0.40577766-ya28.332989-ro1.3547227-fo100!7i7200!8i3600). Unlike the pictire on a google street view the building is already finalized. 
 
 :bulb: Please have ID (passport, driver license) and optionally laptop with you. 
 
