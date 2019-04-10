@@ -1,4 +1,4 @@
-# SaM Solutions @ Search & Knowledge house rules
+# SaM Solutions @ Knowledge & Search services house rules
 
 ## First Day
 On your first day at SaM Solution @ EPO you will be met by a SaM Solutions Delivery Manager or nominated person at EPO entrance, there are 2 main EPO entrances:
@@ -40,12 +40,18 @@ Please make sure that you have specified every working day workload before you l
 Following the link [http://sharepoint2013/sites/ESSKSS/](http://sharepoint2013.internal.epo.org/sites/ESSKSS/) you can get an access to the Serch & Knowledge SaM developers team calendar - a consolidated report and forecast of development team members' presence. 
 
 #### Vacation
+Your vacation 25 working days consist of 20 days of a minimal annual leave and 5 bonus days. 
+- 20 days of a minimal annual leave can be transfered to the following year and must be used before **June 30th** of the year following your vacation period. NB! **after June 30th your vacation days left from your previous period will be burned down without an extra warning**
+- 5 bonus days can be postponed for next 5 years following the year of your vacation. NB! **after 5 years bonus vacation days will be burned down without any extra warning**
+Please manage your vacation days carefully and avoid transfering them.
+
 Prior taking vacation please make sure it does not conflicts with major projects deadlines and vacation schedule of the other team members. Please follow the set of rules specified below:
 - Discuss your vacation plan on a standup
 - **Permanent staff only**, use [http://urlaubsverwaltung.sam-solutions.net/](http://urlaubsverwaltung.sam-solutions.net/) to register your vacation and get approval prior leave
 - Plan your vacation in a [team calendar](http://sharepoint2013.internal.epo.org/sites/ESSKSS/)
 - Add your vacation days in a [timesheet](http://epo.10time.info/site/en/mainmenu/timesheet/) and make sure your timesheet is complete especially when your vacation cross a boundary between months 
 - Activate "Out of office" automatic reply in Outlook
+
 
 #### Sick or unscheduled leave 
 In case of emergency or sick leave when you have no access to the team calendar please make sure you've notified either service Delivery Manager or Project Manager Assistent, please find contacts below:
