@@ -8,11 +8,18 @@ On your first day at SaM Solution @ EPO you will be met by a Service Manager or 
 
 :bulb: Please have ID (passport, driver license) and optionally laptop with you. 
 
-## Password policy
+## Security 
+You should never share your password with anyone else. You should never use easy to guess password rotation combinations.
+### Password policy
 - You are not allowed to share your password with anyone.
 - Your default password is the same as user ID in a lower case. 
 - After the first login you will be asked to change it and the New Password needs to be now a minimum of 10 characters: and should contain at least 3 out of the 4 groups (digits/numbers, small letters, capital letters or special characters). Example: mA2hh%ZZZ7
 :bulb: Don't use Y and Z letters in your password because of Swiss-german keyboard layout
+
+### VPN
+For VPN owners:
+- You should never share your VPN tocken with anyone eles or with any automation application
+- You should never attampt to login to the workstation different from a list of workstations you are allowed to login
 
 ## Presence
 Please make sure you are always available on-site during **core hours 10:00-12:00 and 14:00-16:00** otherwise report your absence as defined below.
