@@ -23,6 +23,7 @@ For VPN owners:
 Please make sure you are always available on-site during **core hours 10:00-12:00 and 14:00-16:00** otherwise report your absence as defined below.
 
 #### Time tracking 
+**:bulb: for on-site employees only**
 Short introduction into a timetracking system is used by SAM EPO employees and contractors
 - For the purpose of timesheet generation and office time tracking we all will use http://epo.10time.info application where you already have an accounts. :bulb: Check your mailbox for a mail from 10time.info
 -	Every team member **each business day** must record number of working hours by entering number of effective hours spent on EPO tasks in the office manually of using a FF/Chrome plugin. :bulb: Search your mailbox for a mail with subject "10times automation"
