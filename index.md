@@ -15,9 +15,9 @@ You should never share your password with anyone else. You should never use easy
 :bulb: Don't use Y and Z letters in your password because of Swiss-german keyboard layout
 
 ### VPN
-For VPN owners:
-- You should never share your VPN tocken with anyone eles or with any automation application
-- You should never attampt to login to the workstation different from a list of workstations you are allowed to login
+- Every EPO employee has a VPN access, please follow instructions for [VPN access from non-EPO computer](https://webserv.epo.org/projects/babylon/info.nsf/0/778b896fc3f946e4c125852a004285bf/$FILE/EPO user Guide - Remote Teleworking Setup non Corporate PC - 20200311.pdf)
+- You should never share your VPN connection with anyone eles or with any automation application
+- You should never attampt to login with remote desktop to the workstation different from a list of workstations you are allowed to login
 
 ## Presence
 Please make sure you are always available on-site during **core hours 10:00-12:00 and 14:00-16:00** otherwise report your absence as defined below.
