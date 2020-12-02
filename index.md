@@ -33,7 +33,8 @@ Short introduction into a timetracking system is used by SAM EPO employees and c
 - **Break** If you work for more than 5.5 hours, then you should have a break of at least 30 minutes.  see [Information about the The Working Hours Act](https://www.government.nl/government/documents/leaflets/2011/08/24/q-a-working-hours)
 - In order to help SAM procurement team handle sick leave all SAM employees are welcome to use “Sick Leave” category although it’s not mandatory for non-permanent SAM employees.
 - Please don’t forget to use “Official Holliday” and “Annual Leave” categories where it’s appropriate.
-- Monthly time-sheet generation. On last day of every working month time records will be accumulated, verified by SAM PM Assistent and cumulative monthly report will be generated and sent to SAM procurement. 
+-  Monthly time-sheet generation. On last day of every working month all time records will be accumulated, verified by SAM PM Assistent and cumulative monthly report will be generated and sent to SAM procurement. 
+- **:bulb: for contractor employees only** On a last day of every working month the timesheet must be saved in a PDF format and attached to your monthly invoice. 
 
 Please make sure that you have specified every working day workload before you leave **last business day of the month**. 
 
