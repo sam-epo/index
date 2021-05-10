@@ -49,24 +49,27 @@ Please manage your vacation days carefully and avoid transfering them.
 
 Prior taking vacation please make sure it does not conflicts with major projects deadlines and vacation schedule of the other team members. Please follow the set of rules specified below:
 - Discuss your vacation plan on a standup
-- **Permanent staff only**, use [http://urlaubsverwaltung.sam-solutions.net/](http://urlaubsverwaltung.sam-solutions.net/) to register your vacation and get approval prior leave
+- **Permanent staff only**, use [https://urlaubsverwaltung.sam-solutions.de/login/](https://urlaubsverwaltung.sam-solutions.de/login/) to register your vacation and make sure I get an approval prior leave
 - Plan your vacation in a [team calendar](https://sharepoint2019.internal.epo.org/sites/ESSKSS/SitePages/Home.aspx)
 - Add your vacation days in a [timesheet](http://epo.10time.info/site/en/mainmenu/timesheet/) and make sure your timesheet is complete especially when your vacation cross a boundary between months 
 - Activate "Out of office" automatic reply in Outlook
 
 
 #### Sick or unscheduled leave 
-In case of emergency or sick leave when you have no access to the team calendar please make sure you've notified either service Delivery Manager or Project Manager Assistent, please find contacts below:
+Make sure you registered youe Sick leave in
+- **Permanent staff only**, absence system [https://urlaubsverwaltung.sam-solutions.de/login/](https://urlaubsverwaltung.sam-solutions.de/login/)
+- Timesheet as a **Sick Leave** category  
+
+:bulb: In case of emergency or sick leave when you have no access to the team calendar please make sure you've notified either service Delivery Manager or Project Manager Assistent, please find contacts below:
 - **Delivery Manager** - [Alexander Khval](mailto:a.khval@sam-solutions.com)
 - **Project Manager Assistent** - [Evgenia Poskanenkowa](mailto:E.Poskanenkowa@sam-solutions.com)
 
-You can mail, SMS, call, [WhatsApp](https://api.whatsapp.com/send?phone=31623759269), [Telegram](https://t.me/khval), Facebook, Hangout or use any other way of communication
 
 ## Business trip
-Pleae consult with SaM Delivery Manager regarding business trips compensations.
+Please consult with SaM Delivery Manager regarding business trips compensations.
 
 ## Training courses
-Pleae consult with SaM Delivery Manager regarding training booking and compensations.
+Please consult with SaM Delivery Manager regarding training booking and compensations.
 
 ## Code of conduct
 - Integrity = pleae support each other.
