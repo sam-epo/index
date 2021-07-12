@@ -35,6 +35,7 @@ Short introduction into a timetracking system is used by SAM EPO employees and c
 - Please don’t forget to use “Official Holliday” and “Annual Leave” categories where it’s appropriate.
 -  Monthly time-sheet generation. On last day of every working month all time records will be accumulated, verified by SAM PM Assistent and cumulative monthly report will be generated and sent to SAM procurement. 
 - **:bulb: for contractor employees only** On a last day of every working month the timesheet must be saved in a PDF format and attached to your monthly invoice. 
+- **:bulb: NB** You can automate timetracking routine with a following [Chrome/Firefox extension](https://confluence-p.internal.epo.org/download/attachments/115819459/10time.user.js.zip)
 
 Please make sure that you have specified every working day workload before you leave **last business day of the month**. 
 
